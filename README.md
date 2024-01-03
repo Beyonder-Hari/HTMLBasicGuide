@@ -73,12 +73,12 @@ background-color: #50C878;
 <h1 id= "home"> HTML: A Basic Guide</h1>
 </marquee>
 <ul>
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">HTML Tags</a></li>
-  <li><a href="#contact">History</a></li>
-   <li><a href="#contact">Other Sources</a></li>
-    <li><a href="#contact">Videos</a></li>
-  <li><a href="">About</a></li>
+  <li><a class="active" href="#https://beyonder-hari.github.io/HTMLBasicGuide/">Home</a></li>
+  <li><a href="https://beyonder-hari.github.io/HTMLTags/">HTML Tags</a></li>
+  <li><a href="https://beyonder-hari.github.io/HistoryOfHTML/">History</a></li>
+   <li><a href="https://beyonder-hari.github.io/HTMLSources/">Other Sources</a></li>
+    <li><a href="https://beyonder-hari.github.io/HTMLVideos/">Videos</a></li>
+  <li><a href="https://beyonder-hari.github.io/AboutMe/">About</a></li>
 </ul>
 <ul class="vert">
   <li><a class="passive" href="#home">Home</a></li>
@@ -93,7 +93,7 @@ background-color: #50C878;
 <br>
 <big><strong>
 <h1 id="h1" align="center"> Home</h1></strong></big>
-<u><h1 id="html">What is HTML? </h1>h1></u>
+<u><h1 id="html">What is HTML? </h1></u>
 <h2 align="left">HTML stands for Hyper Text Markup Language<br>
 HTML is the standard markup language for creating Web pages<br>
 HTML describes the structure of a Web page<br>
