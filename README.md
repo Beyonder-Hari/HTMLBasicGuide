@@ -93,7 +93,7 @@ background-color: #50C878;
 <br>
 <big><strong>
 <h1 id="h1" align="center"> Home</h1></strong></big>
-<u><h1 id="html">What is HTML? <h1></u>
+<u><h1 id="html">What is HTML? </h1>h1></u>
 <h2 align="left">HTML stands for Hyper Text Markup Language<br>
 HTML is the standard markup language for creating Web pages<br>
 HTML describes the structure of a Web page<br>
@@ -134,6 +134,5 @@ A browser does not display the HTML tags, but uses them to determine how to disp
 < p >This is another paragraph.< /p ><br>
 < /body ><br>
 < /html ></h2><br><br>	
-
 </div></body>
 </html>
